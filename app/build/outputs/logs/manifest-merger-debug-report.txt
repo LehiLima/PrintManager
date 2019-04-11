@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/5af3d85df8ff53507c4c8c64fff10154/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/352b72999ad172b90e380c8d35a5be52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/492015753ba29820d1eadb87d2d910dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f4fd3b88cbcb05f12699650687f1a4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/731c9b72506b011e8dfda359730666b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4df95e3cd5ae648f347068498817c668/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/03010850ca4eb2f5c59cc6f6cb4b6dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c31f82dc7254fbf0b9119b3b59b0233c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d659ce9654b7b4d2b5f50cd25da92770/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7dd977ceb46db148b5a4ac3583535b68/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4eff5cba5764ed278d863b23dc685251/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:3:2-41
+	android:versionName
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:7:2-63
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:7:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:8:2-94
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:8:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:9:2-93
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:9:19-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:10:2-92
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:10:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:11:2-88
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:11:19-69
+application
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:13:2-29:16
+	android:label
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:16:3-35
+	android:icon
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:15:3-39
+	android:allowBackup
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:14:3-30
+	android:theme
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:17:3-34
+activity#com.commonsware.android.print.MainActivity
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:18:3-26:14
+	android:label
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:20:4-36
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:19:4-31
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:21:4-25:20
+action#android.intent.action.MAIN
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:22:5-56
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:24:15-62
+service#com.commonsware.android.print.PrintJobMonitorService
+ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:28:3-51
+	android:name
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml:28:12-49
+uses-sdk
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/5af3d85df8ff53507c4c8c64fff10154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/5af3d85df8ff53507c4c8c64fff10154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/352b72999ad172b90e380c8d35a5be52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/352b72999ad172b90e380c8d35a5be52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/492015753ba29820d1eadb87d2d910dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/492015753ba29820d1eadb87d2d910dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f4fd3b88cbcb05f12699650687f1a4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f4fd3b88cbcb05f12699650687f1a4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/731c9b72506b011e8dfda359730666b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/731c9b72506b011e8dfda359730666b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4df95e3cd5ae648f347068498817c668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4df95e3cd5ae648f347068498817c668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/03010850ca4eb2f5c59cc6f6cb4b6dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/03010850ca4eb2f5c59cc6f6cb4b6dc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c31f82dc7254fbf0b9119b3b59b0233c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c31f82dc7254fbf0b9119b3b59b0233c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d659ce9654b7b4d2b5f50cd25da92770/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d659ce9654b7b4d2b5f50cd25da92770/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7dd977ceb46db148b5a4ac3583535b68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7dd977ceb46db148b5a4ac3583535b68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4eff5cba5764ed278d863b23dc685251/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/lehteixeira/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4eff5cba5764ed278d863b23dc685251/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lehteixeira/AndroidStudioProjects/Printing/PrintManager/app/src/main/AndroidManifest.xml

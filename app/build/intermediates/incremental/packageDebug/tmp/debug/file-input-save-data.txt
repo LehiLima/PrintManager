@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Apr 11 14:47:04 BRT 2019
+1.base=/Users/lehteixeira/AndroidStudioProjects/cw-omnibus/Printing/PrintManager/app/build/intermediates/assets/debug
+2.path=folha_pallet.pdf
+0.baseType=DIRECTORY
+2.base=/Users/lehteixeira/AndroidStudioProjects/cw-omnibus/Printing/PrintManager/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/lehteixeira/AndroidStudioProjects/cw-omnibus/Printing/PrintManager/app/build/intermediates/transforms/dexMerger/debug/0
+2.baseType=DIRECTORY
+1.path=cover.pdf
